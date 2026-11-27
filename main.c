@@ -16,7 +16,8 @@ void main(int argc, char *argv[])
         "firefox --new-tab \"https://www.pexels.com\" &",
         "firefox --new-tab \"https://claude.ai\" &",
         "firefox --new-tab \"https://www.youtube.com\" &",
-        "firefox --new-tab \"https://www.skillrack.com/faces/ui/profile.xhtml\" &"};
+        "firefox --new-tab \"https://www.skillrack.com/faces/ui/profile.xhtml\" &"
+    };
     if (argc != 1)
     {
         for (int i = 1; i < argc; i++)

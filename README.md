@@ -41,4 +41,10 @@ A simple C program that launches your most-used websites in Firefox with a singl
 ## Build
 
 ```bash
-gcc main.c -o launcher
+gcc main.c -o launcher```
+## The Truth
+-First of all I didn't do this so that you will all use it
+-I am doing this coz I have an habit of changing my OS once in a while
+-so I don't want to backup this file and do things like that
+-this way i will no longer need to do that
+-after all I don't think there is a lazy guy in existence like me who don't want to have logos in his desktop and want another shortcut
