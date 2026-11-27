@@ -70,4 +70,4 @@ Launch the interactive menu:
 - I am doing this coz I have an habit of changing my OS once in a while
 - so I don't want to backup this file and do things like that
 - this way i will no longer need to do that
-- after all I don't think there is a lazy guy in existence like me who don't want to have logos in his desktop and want another shortcut
+- after all I don't think there is a lazy guy in existence like me who don't want to have logos coz it destroys the wallpaper in his desktop and want another shortcut
